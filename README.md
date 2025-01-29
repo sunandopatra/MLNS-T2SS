@@ -1,5 +1,12 @@
 # MLNS-T2SS
-Results, Plots, samples, and other supporting files for the paper titled: *Normalizing Flow-Assisted Nested Sampling on Type-II Seesaw Model*
+Results, Plots, samples, and other supporting files for the paper titled: 
+
+>**Normalizing Flow-Assisted Nested Sampling on Type-II Seesaw Model**
+>
+>*Rajneil Baruah, Subhadeep Mondal, Sunando Kumar Patra, Satyajit Roy*
+>
+>[arXiv:2501.16432](https://arxiv.org/abs/2501.16432) [hep-ph]
+
 ### Files
 The `Plots` directory contains all the plots generated in this analysis.
 
@@ -15,6 +22,7 @@ The `ML` directory contains all trained networks and associated measurements:
 - The measurements of the classifier: `classifierMeasures.mx`
 
 ### Analysis File
+
 A *Mathematica* notebook is added here: `Data Analysis.nb`
 
 When downloaded along with all other files and folders, this can recreate most of the results in the paper.
